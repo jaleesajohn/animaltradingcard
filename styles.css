@@ -1,0 +1,48 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#card{
+    width: 300px;
+    padding: 100px;
+    border: 1px solid;
+    box-shadow: 5px 5px;
+    background-color:darkolivegreen;
+}
+
+.title{
+    font-weight: bold;
+    border-style: groove;
+    border: width 1px;
+    border-color: chocolate;
+
+}
+
+.picture{
+    width: 300px;
+    border-style: groove;
+    border-width: 1px;
+    border-color: chocolate;
+}
+
+#animal-card-facts{
+    margin: 0px;
+    padding: 10px;
+    border: 1px solid;
+}
+
+.fact{
+    font-style: italic;
+   
+}
+
+.list{
+    list-style: none;
+    padding: 0px;
+
+}
+
+.label{
+    font-weight: bold;
+
+}
